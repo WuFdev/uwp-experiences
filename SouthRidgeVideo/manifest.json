@@ -1,18 +1,18 @@
 
 {
-    "start_url": "http://southridge.azurewebsites.net",
+    "start_url": "https://juvenile-magnetic-aragon.glitch.me",
   "short_name": "SouthRidge",
     "display": "fullscreen",
   "orientation": "landscape",
-  "name": "South Ridge Video",
+  "name": "Cool app",
   "scope":"/", 
    "mjs_access_whitelist": [
     {
-      "url": "https://southridge.azurewebsites.net",
+      "url": "https://juvenile-magnetic-aragon.glitch.me",
       "apiAccess": "all"
     },
         {
-      "url": "http://southridge.azurewebsites.net",
+      "url": "https://juvenile-magnetic-aragon.glitch.me",
       "apiAccess": "all"
     }
   ],
