@@ -1,9 +1,0 @@
-<toast>
-  <visual>
-    <binding template='ToastGeneric'>
-      <text>Uploading...</text>
-      <progress title='{title}' status='{status}' value='{progressValue}'
-                valueStringOverride='{progressValueStringOverride}' />
-    </binding>
-  </visual>
-</toast>
